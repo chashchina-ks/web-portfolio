@@ -1,3 +1,22 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://chashchina-ks.github.io/web-portfolio/"
+languageCode = "ru-ru"
+title = "Моё Портфолио"
+theme = "kiyomi-portfolio"
+
+[params]
+  firstName = "Ксения"
+  lastName = "Чащина"
+  tagline = "Студентка РГПУ им. А.И. Герцена"
+  email = "shipuchkaksusha@gmail.com"
+  location = "Санкт-Петербург, Россия"
+  profileImage = "images/profile.jpg"
+  heroBackground = "/images/hero-bg.png"
+  resumeFile = "/resume.pdf"
+  description = "Портфолио Ксении Чащиной"
+
+disableKinds = ['taxonomy', 'term']
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.128.0"

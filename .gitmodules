@@ -1,0 +1,3 @@
+[submodule "themes/kiyomi-portfolio"]
+	path = themes/kiyomi-portfolio
+	url = https://github.com/mathscantor/hugo-theme-kiyomi-portfolio.git

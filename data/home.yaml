@@ -1,0 +1,10 @@
+hero:
+  title: "Привет, я Ксения"  # Здесь ваше имя
+  subtitle: "Студент РГПУ им. Герцена"  # Ваша специальность
+  location: "Санкт-Петербург, Россия"
+  # image: "images/avatar.jpg"  # Путь к вашему фото
+  buttons:
+    - label: "Мои работы"
+      link: "https://github.com/chashchina-ks"  # Ссылка на ваш GitHub
+    - label: "Связаться со мной"
+      link: "mailto:shipuchkaksusha@gmail.com"
